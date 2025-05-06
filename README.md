@@ -8,6 +8,13 @@ This repository contains the analysis of the effects of congestion pricing on tr
 
 
 ## Data Sources
+- **Traffic Volume** [https://data.cityofnewyork.us/Transportation/Automated-Traffic-Volume-Counts/7ym2-wayt/about_data]
+- **CRZ Vehicle Entries** [https://data.ny.gov/Transportation/MTA-Congestion-Relief-Zone-Vehicle-Entries-Beginni/t6yz-b64h/about_data]
+- **MTA Subway and Bus Hourly Ridership** [https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data] [https://data.ny.gov/Transportation/MTA-Bus-Hourly-Ridership-2020-2024/kv7t-n8in/about_data]
+- **311 complaints data** [https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data]
+- **NYPD Crash and Vehicle Datasets** [https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data]
+
+## Processed Data
 
 - **311_2025.csv**: Service request data collected from the 311 system for the year 2025.
 - **311_2325.csv**: Service request data from 2023-2025, providing insights into community concerns and city service operations.
